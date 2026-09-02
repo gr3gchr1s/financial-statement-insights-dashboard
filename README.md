@@ -1,5 +1,7 @@
 # Financial Statement Insights Dashboard
 
+**[Open the live dashboard](https://gregory-financial-statement-insights-a9fgkvpsxcyho4kkiezn64.streamlit.app/)**
+
 An interactive Python dashboard that retrieves SEC filing data, calculates financial ratios, and compares public companies using the latest reported annual financial statements.
 
 ## Overview
@@ -138,4 +140,4 @@ Financial data is retrieved from the U.S. Securities and Exchange Commission’s
 
 ## Resume Bullet
 
-Built a Python and Streamlit financial-analysis dashboard that automates SEC filing ingestion, XBRL fact extraction, financial-ratio calculation, and peer comparison for Apple and Microsoft.
+Built and deployed a Python and Streamlit financial-analysis dashboard that automates SEC filing ingestion, XBRL fact extraction, financial-ratio calculation, and live peer comparison for Apple and Microsoft.
