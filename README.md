@@ -15,6 +15,10 @@ The dashboard provides:
 * Automatically generated financial takeaways
 * Exact fiscal-year-end dates to clarify reporting-period differences
 
+## Dashboard Preview
+
+![Financial Statement Insights Dashboard](assets/dashboard-preview.png)
+
 ## Data Pipeline
 
 ```text
