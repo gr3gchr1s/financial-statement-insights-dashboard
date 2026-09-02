@@ -1,0 +1,21 @@
+# Python virtual environment
+.venv/
+
+# Python cache and build files
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Secrets and local settings
+.env
+.streamlit/secrets.toml
+
+# Large raw API downloads; regenerate them with the scripts
+data/raw/*.json
+
+# Local AI-tool configuration
+.agents/
+.claude/
+
+# Raw downloads and manually entered source data
+data/raw/
